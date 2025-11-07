@@ -1,0 +1,8 @@
+{	
+    "One-time Debugger": {
+        "prefix": "odebug",
+        "body": [
+        "@debugger_once ||= (debugger; true)"
+        ],
+        "description": "Insert one-time debugger line"
+}}
